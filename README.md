@@ -1,3 +1,3 @@
 # guess-number-game
 
-guessnumbers.netlify.app
+# guessnumbers.netlify.app
